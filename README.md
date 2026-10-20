@@ -1,6 +1,6 @@
 # Hey, I'm Madhav 👋
 
-Here's what I've been building. Most of it lives close to the hardware: getting models to run fast, small and reliably on real machines, and proving it with measurements rather than vibes.
+Here's what I've been building. Most of it lives close to the hardware: getting models to run fast, small and reliably on real machines, and proving it with measurements.
 
 ---
 
